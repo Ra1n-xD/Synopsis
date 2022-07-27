@@ -1,7 +1,7 @@
 # Основные команды гита
 - `git init `– инициализация проекта
 - `git config --local(global) user.name user.name “Ivan”`
-- `git config` --local(global) user.email example@gmail.com – информация о прогере
+   `git config --local(global) user.email example@gmail.com`– информация о разработчике
 - `git status` – статус гита
 - `git add -A (или названия файла)` – все добавить файлы
 - `git commit –m ”commit”` – коммит
