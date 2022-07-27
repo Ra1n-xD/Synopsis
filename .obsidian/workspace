@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "17f651335474c632",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2b15f717fa638ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Часть 1 LearnJS/map и set.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6dea1efd19815b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "048ca332d1e2432b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "120118012fc129e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa7ee664decc3810",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5bce6c41b261c1d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1eb9b7bc1d29d525",
+    "type": "split",
+    "children": [
+      {
+        "id": "2215599e47fa762e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f12d0339604d5e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Часть 1 LearnJS/map и set.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a75df086082fbf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Часть 1 LearnJS/map и set.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ab58ac0cf23387b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94d72a1d64471091",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Часть 1 LearnJS/map и set.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b2b15f717fa638ac",
+  "lastOpenFiles": [
+    "git.md"
+  ]
+}
