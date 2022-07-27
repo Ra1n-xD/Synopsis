@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "*",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "120118012fc129e6",
+  "active": "aa7ee664decc3810",
   "lastOpenFiles": [
     "Часть 1 LearnJS/Map и Set.md",
     "Git.md",
