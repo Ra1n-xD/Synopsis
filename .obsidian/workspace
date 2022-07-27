@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Часть 1 LearnJS/map и set.md",
+            "file": "dasdasdasda.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Часть 1 LearnJS/map и set.md",
+                "file": "dasdasdasda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Часть 1 LearnJS/map и set.md",
+                "file": "dasdasdasda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Часть 1 LearnJS/map и set.md"
+                "file": "dasdasdasda.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "b2b15f717fa638ac",
   "lastOpenFiles": [
+    "Часть 1 LearnJS/map и set.md",
     "git.md"
   ]
 }
