@@ -82,7 +82,7 @@ const double = count.bind(2); // this = 2
 console.log(double(3)); // 6
 console.log(double(5)); // 10
 ```
-- При использовании НЕ стрелочной функции в обработчике `this = элементу`. У callback `this = window`
+- При использовании НЕ стрелочной функции в обработчике `this = элементу`. У callback `this = undefined (use strict)` или `this = window (без ise strict)`
 ```js
 const btn = document.querySelector('button');
 
