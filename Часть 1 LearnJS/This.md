@@ -12,8 +12,7 @@ function showThis(a, b) {
 }
 showThis (4, 5); // undefined
 ```
-- Объект: 
-	- `this = obj`
+- В объекте  `this = obj`
 ```js
 const obj = {
 	a: 4,
@@ -23,4 +22,29 @@ const obj = {
 	}
 };
 obj.sum(); // {a: 4, b: 5, sum: [Functiom: sum]}
+```
+- `this` в функции внутри объекта работает по аналогии с обычной функцией
+```js
+const obj = {
+	a: 4,
+	b: 5,
+	sum: function (){
+		function shout() {
+	        console.log(this);
+	    }
+	    shout();
+	}
+};
+obj.sum(); // undefined
+```
+- `this` в конструкторах и классах – это новый экземпляр объекта
+```js
+function User(name, id){
+	this.name = name;
+	this.id = id;
+	this.hello = function(){
+		console.log('hello' + this.name);
+	};
+} 
+let ivan = new User('Ivan', 20); // this = ivan
 ```
