@@ -23,5 +23,4 @@ const obj = {
 	}
 };
 obj.sum(); // {a: 4, b: 5, sum: [Functiom: sum]}
-``` 
-	-sdadasd
+```
