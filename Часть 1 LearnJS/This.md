@@ -1,4 +1,4 @@
-- Обычная функция: `this = undefines (use strict)` или `this = window (без ise strict)`
+- **Обычная функция: `this = undefines (use strict)` или `this = window (без ise strict)`**
 ```js
 function showThis(a, b) {
     console.log(this);
@@ -10,4 +10,4 @@ function showThis(a, b) {
 }
 showThis (4, 5);
 ```
-- Объект: this = obj
+- Объект: `this = obj`
