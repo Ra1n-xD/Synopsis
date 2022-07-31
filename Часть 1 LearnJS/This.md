@@ -18,7 +18,7 @@ const obj = {
 };
 obj.sum(); // {a: 4, b: 5, sum: [Functiom: sum]}
 ```
-- `this` в функции внутри объекта (неважно где существует функция)
+- `this` в функции внутри объекта (тоже самое, что и при обычной функии)
 ```js
 const obj = {
 	a: 4,
@@ -31,6 +31,19 @@ const obj = {
 	}
 };
 obj.sum(); // undefined
+```
+- Callback не имеет `this` и идет вверх 
+```js
+const obj = {
+	num: 5,
+	sayNumber: function(){
+		const say = () =>{
+			console.log(this);
+		}
+		say();
+	}
+};
+obj.sayNumber(); //this = obj
 ```
 - `this` в конструкторах и классах – это новый экземпляр объекта
 ```js
@@ -68,4 +81,12 @@ const double = count.bind(2); // this = 2
 
 console.log(double(3)); // 6
 console.log(double(5)); // 10
+```
+- При использовании НЕ стрелочной функции в обработчике `this = элементу`. У callback `this = window`
+```js
+const btn = document.querySelector('button');
+
+btn.addEventListener('click', function(){
+    console.log(this); // <button></button>
+});
 ```
