@@ -64,7 +64,7 @@ sayName.apply(user, ['Lox']);
 function count(num) {
     return this * num;
 }
-const double = count.bind(2);
+const double = count.bind(2); // this = 2
 
 console.log(double(3)); // 6
 console.log(double(5)); // 10
