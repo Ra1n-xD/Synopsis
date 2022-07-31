@@ -5,7 +5,7 @@
 function showThis(a, b) {
     console.log(this);
 }
-showThis (4, 5); // undefined
+showThis(); // undefined
 ```
 - В объекте  `this = obj`
 ```js
