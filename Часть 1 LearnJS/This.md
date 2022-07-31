@@ -43,3 +43,29 @@ function User(name, id){
 } 
 let ivan = new User('Ivan', 20); // this = ivan
 ```
+- Ручная привязка `this: call, apply, bind`
+```js
+function sayName(surname) {
+    console.log(this);
+    console.log(this.name + surname);
+}
+const user = {
+    name: 'Ed'
+};
+
+sayName.call(user, 'Lox');
+//{ name: 'Ed' }
+//EdLox
+sayName.apply(user, ['Lox']);
+//{ name: 'Ed' }
+//EdLox
+```
+```js
+function count(num) {
+    return this * num;
+}
+const double = count.bind(2);
+
+console.log(double(3)); // 6
+console.log(double(5)); // 10
+```
