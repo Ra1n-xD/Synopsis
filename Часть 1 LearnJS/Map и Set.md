@@ -31,7 +31,7 @@ obj[objKey] = '123';
 console.log(obj); // { '[object Object]': '123' }
 console.log(map); // Map(1) { { name: 'test' } => '123' }
 ```
-`map[key]` - плохой способ использования т.к ключи становятся типа string
+**`map[key]` - плохой способ использования т.к ключи становятся типа string**
 ```js
 //Сравнение заполенние Map через set и []
 let map = new Map();
