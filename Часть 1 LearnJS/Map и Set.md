@@ -59,8 +59,8 @@ for (let key of map) {
 ```
 `Map` имеет встроенный метод `forEach`, схожий со встроенным методом массивов `Array`:
 ```js
-recipeMap.forEach((value, key, map) => { 
-	alert(`${key}: ${value}`); // огурец: 500 и так далее 
+map.forEach((value, key, map) => { 
+	console.log(`${key}: ${value}`); // false: 'test' и так далее 
 });
 ```
 ___
