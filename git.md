@@ -4,7 +4,8 @@
    `git config --local(global) user.email example@gmail.com` - информация о разработчике
 - `git status` - статус гита
 - `git add -A (или названия файла)` - все добавить файлы
-- `git commit –m "commit"` - коммит
+- `git commit –m "messege"` - коммит
+- `git commit -m "$(date)" ` - коммит с датой 
 - `git log` - посмотреть историю коммитов
 - `git remote add origin https://github.com/ссылка` - добавить репозиторий (origin) гитхаба
 - `git push -u origin master` - запушить файлы в репозиторий (origin)
