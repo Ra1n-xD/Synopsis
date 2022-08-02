@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git.md",
+            "file": "Часть 1 LearnJS/Map и Set.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "Часть 1 LearnJS/Map и Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "Часть 1 LearnJS/Map и Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
+                "file": "Часть 1 LearnJS/Map и Set.md"
               }
             }
           }
@@ -130,10 +130,10 @@
   },
   "active": "120118012fc129e6",
   "lastOpenFiles": [
-    "Часть 1 LearnJSs/Map и Set.md",
-    "git.md",
-    "Часть 1 LearnJSs/This.md",
-    "Часть 1 LearnJSs/Методы массивов.md",
+    "Часть 1 LearnJS/This.md",
+    "Часть 1 LearnJS/Map и Set.md",
+    "Основы GIT.md",
+    "Часть 1 LearnJS/Методы массивов.md",
     "Без названия.md",
     "Git.md",
     "GIT.md",
