@@ -63,6 +63,22 @@ map.forEach((value, key, map) => {
 	console.log(`${key}: ${value}`); // false: 'test' и так далее 
 });
 ```
+### Преобразование Map в Объект и наоборот
+```js
+//Из Map в Объект (Object.entries)
+const obj = {
+    'test': 123,
+    'sosu': 'bibu',
+};
+console.log(new Map(Object.entries(obj))); //Map(2) { 'test' => 123, 'sosu' => 'bibu' }
+
+//Из Объекта в Map
+let map = new Map([
+    [false, 'test'],
+    [1, 2],
+]);
+console.log(Object.fromEntries(map)); // { '1': 2, false: 'test' }
+```
 ___
 ## `Set` – коллекция уникальных значений, так называемое «множество».
 **Методы и свойства:**
