@@ -74,10 +74,11 @@ console.log(new Map(Object.entries(obj))); //Map(2) { 'test' => 123, 'sosu' => '
 
 //Из Map в Объект
 let map = new Map([
-    [false, 'test'],
+    [[false, 'sosi', 123], 'test'],
     [1, 2],
+    [{}, {}]
 ]);
-console.log(Object.fromEntries(map)); // { '1': 2, false: 'test' }
+console.log(Object.fromEntries(map)); // { '1': 2, 'false,sosi,123': 'test', '[object Object]': {} }
 ```
 
 ## `Set` – коллекция уникальных значений, так называемое «множество».
