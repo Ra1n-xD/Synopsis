@@ -65,14 +65,14 @@ map.forEach((value, key, map) => {
 ```
 ### Преобразование Map в Объект и наоборот
 ```js
-//Из Map в Объект (Object.entries)
+//Из Объекта в Map
 const obj = {
     'test': 123,
     'sosu': 'bibu',
 };
 console.log(new Map(Object.entries(obj))); //Map(2) { 'test' => 123, 'sosu' => 'bibu' }
 
-//Из Объекта в Map
+//Из Map в Объект
 let map = new Map([
     [false, 'test'],
     [1, 2],
