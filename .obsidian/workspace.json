@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Часть 1 LearnJS/Методы массивов.md",
-                "mode": "source",
+                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Перебираемые",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Часть 1 LearnJS/Методы массивов.md",
+                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Часть 1 LearnJS/Методы массивов.md",
+                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Часть 1 LearnJS/Методы массивов.md"
+                "file": "Часть 1 LearnJS/Перебираемые объекты.md"
               }
             }
           }
@@ -139,13 +140,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2c5dd1cd07425fb9",
+  "active": "aa7ee664decc3810",
   "lastOpenFiles": [
+    "Часть 1 LearnJS/Методы массивов.md",
     "Часть 1 LearnJS/Перебираемые объекты.md",
     "Часть 1 LearnJS/Map и Set.md",
     "Часть 1 LearnJS/This.md",
     "Основы GIT.md",
-    "Часть 1 LearnJS/Методы массивов.md",
     "Git.md",
     "GIT.md",
     "dasdasdasda.md",
