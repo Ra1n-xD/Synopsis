@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Часть 1 LearnJS/Перебираемые объекты.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Перебираемые",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "aa7ee664decc3810",
+  "active": "2c5dd1cd07425fb9",
   "lastOpenFiles": [
     "Часть 1 LearnJS/Методы массивов.md",
     "Часть 1 LearnJS/Перебираемые объекты.md",
