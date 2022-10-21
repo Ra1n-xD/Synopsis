@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
+                "file": "Основы GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
+                "file": "Основы GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
+                "file": "Основы GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Часть 1 LearnJS/Перебираемые объекты.md"
+                "file": "Основы GIT.md"
               }
             }
           }
@@ -141,8 +141,8 @@
   },
   "active": "2c5dd1cd07425fb9",
   "lastOpenFiles": [
-    "Часть 1 LearnJS/Map и Set.md",
     "Часть 1 LearnJS/Перебираемые объекты.md",
+    "Часть 1 LearnJS/Map и Set.md",
     "Часть 1 LearnJS/Методы массивов.md",
     "Основы GIT.md",
     "Часть 1 LearnJS/This.md",
