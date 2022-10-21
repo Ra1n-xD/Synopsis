@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "17f651335474c632",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1805370ce75daac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c5dd1cd07425fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6dea1efd19815b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "048ca332d1e2432b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "120118012fc129e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa7ee664decc3810",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5bce6c41b261c1d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1eb9b7bc1d29d525",
+    "type": "split",
+    "children": [
+      {
+        "id": "2215599e47fa762e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f12d0339604d5e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a75df086082fbf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Часть 1 LearnJS/Перебираемые объекты.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ab58ac0cf23387b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94d72a1d64471091",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Часть 1 LearnJS/Перебираемые объекты.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "2c5dd1cd07425fb9",
+  "lastOpenFiles": [
+    "Часть 1 LearnJS/Map и Set.md",
+    "Часть 1 LearnJS/Перебираемые объекты.md",
+    "Часть 1 LearnJS/Методы массивов.md",
+    "Основы GIT.md",
+    "Часть 1 LearnJS/This.md",
+    "Git.md",
+    "GIT.md",
+    "dasdasdasda.md",
+    "Часть 1 LearnJS/map и set.md"
+  ]
+}
