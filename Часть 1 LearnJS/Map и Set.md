@@ -52,14 +52,24 @@ console.log(map); // Map(2) { 1 => 2, '1': 2, [ 1, 2, 3 ] => 2, '1,2,3': 2 }
 -   `map.values()` – возвращает итерируемый объект по значениям,
 -   `map.entries()` – возвращает итерируемый объект по парам вида `[ключ, значение]`, этот вариант используется по умолчанию в `for..of`.
 ```js
-let map = new Map([
-    [false, 'test'],
-    [1, 2],
+let recipeMap = new Map([
+    ['огурец', 500],
+    ['помидор', 350],
+    ['лук', 50]
 ]);
-for (let key of map) {
-    console.log(key); //false, 1
+// перебор по ключам (овощи)
+for (let vegetable of recipeMap.keys()) {
+    alert(vegetable); // огурец, помидор, лук
 }
-//Остальное по аналогии
+// перебор по значениям (числа)
+for (let amount of recipeMap.values()) {
+    alert(amount); // 500, 350, 50
+}
+// перебор по элементам в формате [ключ, значение]
+for (let entry of recipeMap) {
+    // то же самое, что и recipeMap.entries()
+    alert(entry); // огурец,500 (и так далее)
+}
 ```
 `Map` имеет встроенный метод `forEach`, схожий со встроенным методом массивов `Array`:
 ```js
