@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Часть 1 LearnJS/Map и Set.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "767387fec82051fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Часть 1 LearnJS/Дата и время.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Часть 1 LearnJS/Map и Set.md",
+                "file": "Часть 1 LearnJS/Дата и время.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Часть 1 LearnJS/Map и Set.md",
+                "file": "Часть 1 LearnJS/Дата и время.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Часть 1 LearnJS/Map и Set.md"
+                "file": "Часть 1 LearnJS/Дата и время.md"
               }
             }
           }
@@ -136,11 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c5dd1cd07425fb9",
+  "active": "767387fec82051fa",
   "lastOpenFiles": [
+    "Часть 1 LearnJS/Map и Set.md",
     "Основы GIT.md",
     "Часть 1 LearnJS/Перебираемые объекты.md",
-    "Часть 1 LearnJS/Map и Set.md",
     "Часть 1 LearnJS/Методы массивов.md",
     "Часть 1 LearnJS/This.md",
     "Git.md",

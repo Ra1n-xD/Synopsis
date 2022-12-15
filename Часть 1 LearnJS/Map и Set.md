@@ -19,9 +19,9 @@
 -   Есть дополнительные методы, свойство `size`.
 ```js
 //Пример отличий ключей в Map и Объектах
-let objKey = {
+let objKey = { 
     test: 'test',
-    hui: '12sm'
+    hui: '12sm'    
 };
 
 let map = new Map();
